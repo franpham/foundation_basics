@@ -1,12 +1,7 @@
+@import "partials/_settings";     // settings must be before all JS files, whih are linked to by "foundation"
 @import "foundation";
 @import "partials/reset";
 @import "partials/clearfix";
-
-$testColor: red;
-
-#test {
-  background-color: $testColor;
-}
 
 div.row {
   padding: 0 16px;

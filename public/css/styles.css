@@ -5733,7 +5733,7 @@ meta.foundation-mq-topbar {
       margin: 0; }
       /* line 219, bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar .name h1 a, .top-bar .name h2 a, .top-bar .name h3 a, .top-bar .name h4 a, .top-bar .name p a, .top-bar .name span a {
-        color: #FFFFFF;
+        color: red;
         display: block;
         font-weight: normal;
         padding: 0 0.9375rem;
@@ -5745,7 +5745,7 @@ meta.foundation-mq-topbar {
     top: 0; }
     /* line 235, bower_components/foundation/scss/foundation/components/_top-bar.scss */
     .top-bar .toggle-topbar a {
-      color: #FFFFFF;
+      color: red;
       display: block;
       font-size: 0.8125rem;
       font-weight: bold;
@@ -5827,7 +5827,7 @@ meta.foundation-mq-topbar {
     background: #333333; }
     /* line 334, bower_components/foundation/scss/foundation/components/_top-bar.scss */
     .top-bar-section ul li > a {
-      color: #FFFFFF;
+      color: red;
       display: block;
       font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 0.8125rem;
@@ -6080,7 +6080,7 @@ meta.foundation-mq-topbar {
         /* line 458, bower_components/foundation/scss/foundation/components/_top-bar.scss */
         .top-bar-section .dropdown li.title h5 a,
         .top-bar-section .dropdown li.parent-link a {
-          color: #FFFFFF;
+          color: red;
           display: block; }
           /* line 462, bower_components/foundation/scss/foundation/components/_top-bar.scss */
           .top-bar-section .dropdown li.title h5 a:hover,
@@ -7863,34 +7863,30 @@ table {
   zoom: 1;
   /* ie 6/7 */ }
 
-/* line 7, stdin */
-#test {
-  background-color: red; }
-
-/* line 11, stdin */
+/* line 6, stdin */
 div.row {
   padding: 0 16px; }
 
-/* line 15, stdin */
+/* line 10, stdin */
 div.column {
   padding: 16px; }
 
-/* line 19, stdin */
+/* line 14, stdin */
 div.columns {
   padding: 16px; }
 
-/* line 23, stdin */
+/* line 18, stdin */
 #A {
   background-color: red; }
 
-/* line 27, stdin */
+/* line 22, stdin */
 #B {
   background-color: green; }
 
-/* line 31, stdin */
+/* line 26, stdin */
 #C {
   background-color: blue; }
 
-/* line 35, stdin */
+/* line 30, stdin */
 #D {
   background-color: purple; }
