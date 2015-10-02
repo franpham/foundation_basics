@@ -18,15 +18,30 @@ div.columns {
 #A {
   background-color: red;
 }
-
 #B {
   background-color: green;
 }
-
 #C {
   background-color: blue;
 }
-
 #D {
   background-color: purple;
+}
+
+#site-content{
+  margin-top: 96px;
+  text-align: center;
+}
+
+#site-button {
+  padding: 42px;
+  border: 2px outset purple;
+  background-color: navy;
+}
+
+#site-button:hover {
+  padding: 48px;
+  color: red;
+  border: 2px inset fuchsia;
+  background-color: blue;
 }

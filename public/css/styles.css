@@ -7879,14 +7879,32 @@ div.columns {
 #A {
   background-color: red; }
 
-/* line 22, stdin */
+/* line 21, stdin */
 #B {
   background-color: green; }
 
-/* line 26, stdin */
+/* line 24, stdin */
 #C {
   background-color: blue; }
 
-/* line 30, stdin */
+/* line 27, stdin */
 #D {
   background-color: purple; }
+
+/* line 31, stdin */
+#site-content {
+  margin-top: 96px;
+  text-align: center; }
+
+/* line 36, stdin */
+#site-button {
+  padding: 42px;
+  border: 2px outset purple;
+  background-color: navy; }
+
+/* line 42, stdin */
+#site-button:hover {
+  padding: 48px;
+  color: red;
+  border: 2px inset fuchsia;
+  background-color: blue; }
